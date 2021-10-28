@@ -1,2 +1,2 @@
 # IMC
-Calcule o seu IMC | https://gustavoluisdo.github.io/IMC/
+Calcule o seu IMC  https://gustavoluisdo.github.io/IMC/
