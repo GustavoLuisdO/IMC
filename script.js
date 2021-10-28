@@ -5,6 +5,7 @@ function calcular(){
 
   if(peso == "" || altura == ""){
     resultado.innerHTML = `Insira os valores!`
+    return;
   }
 
   var imc = peso/(altura*altura)
