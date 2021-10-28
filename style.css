@@ -17,7 +17,7 @@ body{
   padding: 20px;
   border: 2px solid lightslategray;
   border-radius: 20px;
-  box-shadow: 3px 3px 10px #fff;
+  box-shadow: 4px 4px 12px #fff;
   font-weight: bold;
 }
 
@@ -35,6 +35,7 @@ input{
   margin-bottom: 20px;
   text-align: center;
   border-radius: 15px;
+  box-shadow: 2px 2px 8px lightslategray;
 }
 
 button{
@@ -44,6 +45,7 @@ button{
   margin: 10px 0;
   text-align: center;
   border-radius: 20px;
+  box-shadow: 2px 2px 8px lightslategray;
 }
 button:hover{
   background: lightgray;
